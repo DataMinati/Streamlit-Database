@@ -1,5 +1,13 @@
 # Streamlit-Database
 
+## How to Use ✅
+
+- Create your notebook or streamlit application
+- set a dataframe variable like df or data
+- For example : ```data = pd.read_csv(url)```
+- copy the link of the required database raw file (csv)
+- paste in the url in place of "url" area in the syntax in step 3 and continue 
+
 
 ### 1. Breast Cancer
 ```
