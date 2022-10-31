@@ -43,3 +43,9 @@ https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/heart.csv
 ```
 https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/survey%20lung%20cancer.csv
 ```
+
+<hr>
+
+### Want to use streamlit icons? Use it from here:
+
+[Streamlit Icons](https://raw.githubusercontent.com/omnidan/node-emoji/master/lib/emoji.json)
