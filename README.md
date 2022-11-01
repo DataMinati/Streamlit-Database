@@ -44,6 +44,11 @@ https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/heart.csv
 https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/survey%20lung%20cancer.csv
 ```
 
+### 8. Liver Disease
+```
+https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/indian_liver_patient.csv
+```
+
 <hr>
 
 ### Want to use streamlit icons? Use it from here:
