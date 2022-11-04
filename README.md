@@ -49,6 +49,11 @@ https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/survey%20lu
 https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/indian_liver_patient.csv
 ```
 
+### 9. Kidney Disease
+```
+https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/kidney.csv
+```
+
 <hr>
 
 ### Want to use streamlit icons? Use it from here:
